@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">Me chamo pedro<br><br>- 🔭 contate-me no email: pedroAugustoAlexandre@proton.me<br>- 📚 estudando spring boot<br>- ⚡ back-end java</p>
+<p align="left">Back-end Java developer apaixonado por tecnologia e construção de APIs com Spring Boot.  
+Gosto de transformar ideias em sistemas funcionais, bem estruturados e fáceis de evoluir.
+<br><br>- 🔭 contate-me no email: pedroAugustoAlexandre@proton.me<br>- 📚 estudando spring boot<br>- ⚡ back-end java</p>
 
 ###
 
