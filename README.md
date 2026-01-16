@@ -64,7 +64,6 @@ API REST desenvolvida em **Spring Boot** para gerenciamento de filmes e listas p
 - Bean Validation
 
 🔗 Repositório: **https://github.com/PedroAugustoAlexadre/MovieAPI**  
-*(ajuste o link se o nome for diferente)*
 
 ---
 
